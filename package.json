@@ -1,0 +1,14 @@
+{
+  "name": "Only Exterior LLC",
+  "dependencies": {
+    "vaderjs": "latest",
+    "vaderjs-daisyui": "^0.0.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.2.4",
+    "autoprefixer": "^10.5.0",
+    "daisyui": "^5.5.19",
+    "postcss": "^8.5.13",
+    "tailwindcss": "^4.2.4"
+  }
+}

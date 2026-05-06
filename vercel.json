@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "buildCommand": "bun run build",
+  "outputDirectory": "dist",
+  "installCommand": "bun install",
+  "framework": null,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/dist/index.html"
+    },
+    {
+      "source": "/portfolio",
+      "destination": "/dist/portfolio/index.html"
+    },
+    {
+      "source": "/portfolio/:path*",
+      "destination": "/dist/portfolio/index.html"
+    },
+    {
+      "source": "/services",
+      "destination": "/dist/services/index.html"
+    },
+    {
+      "source": "/services/:path*",
+      "destination": "/dist/services/index.html"
+    },
+    {
+      "source": "/:path*",
+      "destination": "/dist/:path*"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/dist/index.html"
+    }
+  ]
+}
