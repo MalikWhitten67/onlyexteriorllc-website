@@ -4,6 +4,9 @@
     "vaderjs": "latest",
     "vaderjs-daisyui": "^0.0.5"
   },
+  "scripts": {
+    "build":"vaderjs build"
+  },
   "devDependencies": {
     "@tailwindcss/cli": "^4.2.4",
     "autoprefixer": "^10.5.0",
