@@ -2,7 +2,7 @@
   "name": "Only Exterior LLC",
   "dependencies": {
     "vaderjs": "latest",
-    "vaderjs-daisyui": "^0.0.5"
+    "vaderjs-daisyui": "latest"
   },
   "devDependencies": {
     "@tailwindcss/cli": "^4.2.4",
