@@ -344,7 +344,7 @@ const PortfolioPage = component(({ onBackToHome }) => {
           
           {/* Phone - Primary CTA */}
           <a 
-            href="tel:+15551234567" 
+            href="tel:+16186704450" 
             className="group relative overflow-hidden rounded-xl bg-gradient-to-r from-green-500/10 to-emerald-600/10 border border-green-500/30 p-4 hover:border-green-500/70 transition-all duration-300 hover:-translate-y-0.5"
           >
             <div className="absolute inset-0 bg-gradient-to-r from-green-500/0 to-green-500/5 group-hover:from-green-500/10 transition-all duration-300" />
