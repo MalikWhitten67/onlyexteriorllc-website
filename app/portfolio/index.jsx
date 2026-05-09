@@ -192,9 +192,9 @@ const PortfolioPage = component(({ onBackToHome }) => {
   `}</style>
 </nav>
       <div className="relative pt-32 pb-20 overflow-hidden">
-        <div className="max-w-6xl mx-auto px-6 relative z-10 text-center"> 
+        <div className="max-w-6xl mx-auto px-2 relative z-10 text-center"> 
           <h1 className="text-5xl md:text-7xl font-black mb-6 tracking-tight">
-            Proven <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-emerald-500">Transformations</span>
+            Proven <span className="  text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-emerald-500">Transformations</span>
           </h1>
           <p className="text-xl text-slate-400 max-w-2xl mx-auto">
             Real results for real properties. Browse our recent work using the filters below.
